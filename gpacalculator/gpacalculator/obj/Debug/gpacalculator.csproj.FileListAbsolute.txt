@@ -1,0 +1,11 @@
+E:\calculator\gpacalculator\gpacalculator\bin\Debug\gpacalculator.exe.config
+E:\calculator\gpacalculator\gpacalculator\bin\Debug\gpacalculator.exe
+E:\calculator\gpacalculator\gpacalculator\bin\Debug\gpacalculator.pdb
+E:\calculator\gpacalculator\gpacalculator\obj\Debug\gpacalculator.csproj.AssemblyReference.cache
+E:\calculator\gpacalculator\gpacalculator\obj\Debug\gpacalculator.csproj.SuggestedBindingRedirects.cache
+E:\calculator\gpacalculator\gpacalculator\obj\Debug\gpacalculator.Form1.resources
+E:\calculator\gpacalculator\gpacalculator\obj\Debug\gpacalculator.Properties.Resources.resources
+E:\calculator\gpacalculator\gpacalculator\obj\Debug\gpacalculator.csproj.GenerateResource.cache
+E:\calculator\gpacalculator\gpacalculator\obj\Debug\gpacalculator.csproj.CoreCompileInputs.cache
+E:\calculator\gpacalculator\gpacalculator\obj\Debug\gpacalculator.exe
+E:\calculator\gpacalculator\gpacalculator\obj\Debug\gpacalculator.pdb
